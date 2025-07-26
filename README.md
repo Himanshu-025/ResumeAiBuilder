@@ -43,7 +43,7 @@
 
 <h1>📦 Installation</h1>
 
-<li>git clone https://github.com/yourusername/ai-resume-builder.git</li>
+<li>git clone 
 <li>cd ResumeGen</li>
 <li>npm install</li>
 <li>npm run dev</li>
